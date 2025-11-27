@@ -6,7 +6,7 @@ Incorporated Firebase for user data storage and designed an intuitive user inter
 - [Project Overview](#project-overview)  
 - [Features](#features)  
 - [Libraries & Technologies](#libraries--technologies)  
-- [Screenshots](#screenshots)  
+- [App Screens](#app-screens)  
 
 
 
@@ -43,5 +43,33 @@ Designed for both young and mature audiences, this app offers a convenient, prof
 - **ViewModel-ktx** – lifecycle-aware ViewModels  
 - **Room** – local database for offline support  
 
+
+## App Screens
+
+#### Register & Login
+| Register Screen | Login Screen |
+|-----------------|--------------|
+| ![Register Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/register.JPG) | ![Home Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/login.JPG) |
+
+---
+
+#### Groups Flow
+| Groups Screen | Add Group | Update Group |
+|---------------|-----------|-------------|
+| ![Groups Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/groups%20screen.JPG) | ![Add Group Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/add%20group.JPG) | ![Update Group Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/update%20group.JPG) |
+
+---
+
+#### Contacts Flow
+| Add Contact | Contact Info | Update Contact | Contacts List |
+|------------|--------------|----------------|---------------|
+| ![Add Contact Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/add%20contact.JPG) | ![Contact Information Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/contact%20information%20screen.JPG) | ![Update Contact Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/update%20contact.JPG) | ![Contacts Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/contacts%20screens.JPG) |
+
+---
+
+#### Settings & Profile
+| Settings | Profile |
+|----------|---------|
+| ![Settings Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/settings.JPG) | ![Profile Screen](https://github.com/OhadAms/Groupys/blob/main/groupys%20images/profile.JPG) |
 
 
