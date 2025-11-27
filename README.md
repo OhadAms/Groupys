@@ -2,13 +2,14 @@
 Developed a feature-rich Android application using Kotlin implementing MVVM architecture for efficient data flow. 
 Incorporated Firebase for user data storage and designed an intuitive user interface for contact groups
 
+## Live Demo (YouTube)
+- [Watch the video demonstration](https://youtu.be/wkzZKAT7YMk)  
+
 ## Table of Contents
 - [Project Overview](#project-overview)  
 - [Features](#features)  
 - [Libraries & Technologies](#libraries--technologies)  
 - [App Screens](#app-screens)  
-
-
 
 ## Project Overview
 Managing short-term contacts can be time-consuming and cumbersome. Adding temporary contacts—such as those for military duty or temporary work—to your main contact list can clutter it with people you no longer need.  
