@@ -37,11 +37,11 @@ Designed for both young and mature audiences, this app offers a convenient, prof
 ## Libraries & Technologies
 - **Animated Bottom Bar** – for smooth navigation  
 - **Firebase Firestore** – cloud storage for contacts  
-- **Firebase Auth-ktx** – user authentication  
+- **Firebase Auth** – user authentication  
 - **Kotlinx Coroutines Play Services** – asynchronous operations  
-- **Lifecycle-livedata-ktx** – reactive UI updates  
+- **Lifecycle-livedata** – reactive UI updates  
 - **Glide** – image loading and caching  
-- **ViewModel-ktx** – lifecycle-aware ViewModels  
+- **ViewModel** – lifecycle-aware ViewModels  
 - **Room** – local database for offline support  
 
 
